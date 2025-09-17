@@ -67,7 +67,7 @@ Y= A⊕B
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by:Nithish D M
- RegisterNumber: 212223230144
+ RegisterNumber: 212224235001
 ~~~
 module logicgate_top(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
